@@ -145,8 +145,8 @@ pip install nerfstudio
 **OR** if you want the latest and greatest:
 
 ```bash
-git clone https://github.com/nerfstudio-project/nerfstudio.git
-cd nerfstudio
+git clone git@github.com:Mikey-E/nerfstudio-grocery.git
+cd nerfstudio-grocery
 pip install --upgrade pip setuptools
 pip install -e .
 ```
